@@ -1,11 +1,11 @@
    ### Hi THERE 👋
  <h1> Its Me Aswin 😎 </h1>
-  👩🏿‍💻 Pursuing MERN Stack from GUVI.IN 👩🏿‍💻
+  👩🏿‍💻 Aspiring Programmer👩🏿‍💻
 
 
 
-- 🌱 I’m currently learning  MERN full stack development
-- 🤔 I’m looking to collaborate on MERN Projects
+- 🌱 I’m currently learning full stack development
+- 🤔 I’m looking to collaborate on Projects
 - 💬 Ask me about jS, html and CSS
 - 📫 How to reach me: aswinshankar1310@gmail.com
 - 😄 Pronouns: his/him
